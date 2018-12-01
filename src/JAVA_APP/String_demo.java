@@ -18,6 +18,7 @@ public class String_demo {
         /*String_demo_substr str = new String_demo_substr();*/
        /* str*/
         findStringvalue(first,second,name);
+        System.out.println("hello");
         /*
         String end = sc.next();
 
