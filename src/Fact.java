@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+import JAVA_APP.*;
 public class Fact {
     public static void main(String[] args) {
         int fact=1;
