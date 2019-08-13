@@ -9,6 +9,6 @@ public class Machine implements Info {
 
     @Override
     public void showInfo() {
-        System.out.println("Machine is started: "+id);
+        System.out.println("Machine is started: " + id);
     }
 }

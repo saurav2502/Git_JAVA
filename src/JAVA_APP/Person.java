@@ -1,6 +1,6 @@
 package JAVA_APP;
 
-public class Person implements Info{
+public class Person implements Info {
     private String name;
 
     public Person(String name) {
@@ -9,6 +9,6 @@ public class Person implements Info{
 
     @Override
     public void showInfo() {
-        System.out.println("Person name: "+name);
+        System.out.println("Person name: " + name);
     }
 }

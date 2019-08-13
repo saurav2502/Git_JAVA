@@ -19,7 +19,7 @@ public class App {
         info3.showInfo();
     }
 
-    public static void displayInfo(Info info){
+    public static void displayInfo(Info info) {
         info.showInfo();
     }
 }
